@@ -414,6 +414,9 @@ footer ul{
         font-size: .7em;
         padding-bottom: 4px;
     }
+    h1{
+        font-size: 1.6rem;
+    }
     .logo{
         width:30x;
         height: 30px;
@@ -443,6 +446,9 @@ footer ul{
     .tecno-fest{
         font-size: .7em;
         padding-bottom: 3px;
+    }
+    h1{
+        font-size:1.5rem;
     }
     .logo{
         width:30x;
